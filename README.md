@@ -232,17 +232,6 @@ This project is part of CentraleSupélec's **ST5 VAC-EI (Electronique et Informa
 - Computer vision applications
 - Hardware-software co-design
 
-**Credits**: Developed at CentraleSupélec, Department of Electronics and Electromagnetism.
-
 ## License
 
-Copyright (c) 2024 CentraleSupélec. Educational use permitted with attribution.
-
-## Contributors
-
-- **P. BENABES** - Arduino firmware development
-- **CentraleSupélec** - ST5 VAC Integration teaching team
-
-## Support
-
-For issues or questions related to this project, please refer to the CentraleSupélec ST5 VAC course materials or contact the teaching staff.
+Copyright (c) 2025 CentraleSupélec. Educational use permitted with attribution.
